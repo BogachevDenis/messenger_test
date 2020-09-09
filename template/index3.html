@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <title>Client3</title>
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/css/bootstrap.min.css" integrity="sha384-/Y6pD6FV/Vv2HJnA6t+vslU6fwYXjCFtcEpHbNJ0lyAFsXTsjBbfaDjzALeQsN6M" crossorigin="anonymous">
+    <style>
+        .container{
+            background: aliceblue;
+            margin: 0 auto;
+            width: 95%;
+        }
+        .message{
+            padding: 10px;
+            background: antiquewhite;
+            width: 100%;
+            border: 1px solid black;
+            height: auto;
+        }
+        .message p{
+            font-size: 16px;
+        }
+    </style>
+</head>
+<body>
+<div class="container" >
+    <h1>Messages</h1>
+    {{range .}}
+    <div class="message" >
+        <p># {{.Num}}</p>
+        <p>Message - {{.Message}}</p>
+        <p>Time - {{.Time}}</p>
+    </div>
+    {{end}}
+
+</div>
+
+
+
+
+</body>
+</html>

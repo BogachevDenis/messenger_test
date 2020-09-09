@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d1d47f3e-04b0-49bb-8fa9-8b065f13b89b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../kiddy_line_processor.git/.idea/kiddy_line_processor.git.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kiddy_line_processor.git/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kiddy_line_processor.git/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kiddy_line_processor_test.git/.idea/kiddy_line_processor_test.git.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kiddy_line_processor_test.git/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kiddy_line_processor_test.git/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kiddy_line_processor_test.git/Dockerfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kiddy_line_processor_test.git/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kiddy_line_processor_test.git/bin/kiddy_line" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kiddy_line_processor_test.git/cmd/grpcserver/client/Dockerfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kiddy_line_processor_test.git/cmd/grpcserver/client/client.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kiddy_line_processor_test.git/cmd/grpcserver/proto/github.com/protocolbuffers/protobuf/examples/go/tutorialpb/sport.pb.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kiddy_line_processor_test.git/cmd/grpcserver/proto/sport.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kiddy_line_processor_test.git/cmd/grpcserver/server/Dockerfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kiddy_line_processor_test.git/cmd/grpcserver/server/server.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kiddy_line_processor_test.git/database/database.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kiddy_line_processor_test.git/docker-compose.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kiddy_line_processor_test.git/go.mod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kiddy_line_processor_test.git/go.sum" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kiddy_line_processor_test.git/main.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kiddy_line_processor_test.git/main_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kiddy_line_processor_test.git/postgres/Dockerfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kiddy_line_processor_test.git/postgres/up.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kiddy_line_processor_test.git/setting.cfg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../send2/Dockerfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../send2/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../send2/bin/kiddy_line" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../send2/cmd/grpcserver/client/Dockerfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../send2/cmd/grpcserver/client/client.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../send2/cmd/grpcserver/proto/github.com/protocolbuffers/protobuf/examples/go/tutorialpb/sport.pb.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../send2/cmd/grpcserver/proto/sport.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../send2/cmd/grpcserver/server/Dockerfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../send2/cmd/grpcserver/server/server.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../send2/database/database.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../send2/docker-compose.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../send2/go.mod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../send2/go.sum" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../send2/main.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../send2/main_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../send2/postgres/Dockerfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../send2/postgres/up.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../send2/setting.cfg" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="GOROOT" path="/usr/local/go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1h064ioe1vyPanNaaK2rj8vBlIA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../websocket" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="788" y="389" width="402" height="327" key="#Go_Modules" timestamp="1599139267040">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="788" y="389" width="402" height="327" key="#Go_Modules/67.27.1853.1053@67.27.1853.1053" timestamp="1599139267040" />
+    <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl" timestamp="1599213268879">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1599213268879" />
+  </component>
+</project>

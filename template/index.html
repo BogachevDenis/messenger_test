@@ -1,0 +1,45 @@
+<html>
+<head>
+    <title>Messenger</title>
+</head>
+<body>
+
+<div>
+    <form>
+        <label >Message</label>
+        <input type="text" id="inputfield" placeholder="Hello_world"/><br />
+        <button type="button" id="sendBtn">Send</button>
+        <br />
+        <br />
+        <a href="/client2" target="_blank">Client2</a>
+        <br />
+        <br />
+        <a href="/client3" target="_blank">Client3</a>
+    </form>
+</div>
+<div id="container"></div>
+
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+<script type="text/javascript">
+    $(function () {
+        var ws;
+        if (window.WebSocket === undefined) {
+            $("#container").append("Your browser does not support WebSockets");
+            return;
+        } else {
+            ws = initWS();
+        }
+
+        function initWS() {
+            var socket = new WebSocket("ws://localhost:8080/ws")
+            return socket;
+        }
+
+        $("#sendBtn").click(function (e) {
+            e.preventDefault();
+            ws.send(JSON.stringify({ Message: $("#inputfield").val() }));
+        });
+    });
+</script>
+</body>
+</html>
